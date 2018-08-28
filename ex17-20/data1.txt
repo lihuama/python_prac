@@ -1,0 +1,3 @@
+I am a superman.  length=16
+No blood, no revolution.  length=24
+He, the one who changed the world.  length=34
